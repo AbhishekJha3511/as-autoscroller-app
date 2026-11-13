@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Auto Scroller",
+    "slug": "autoscroller",
+    "icon": "./assets/images/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.abhishekjha.autoscroller"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eac59e78-b3f2-4ba8-97e2-7d4bd3ae89c9"
+      }
+    }
+  }
+}

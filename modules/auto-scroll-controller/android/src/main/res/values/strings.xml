@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Performs swipe gestures on your behalf to auto-scroll Shorts and Reels, and shows a play/pause controller on the screen edge.</string>
+</resources>
