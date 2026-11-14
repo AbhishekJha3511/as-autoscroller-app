@@ -40,6 +40,9 @@ The app needs only **one** permission: the **Accessibility service** (this is wh
 
 ## 📦 Install & use
 
+![Link](https://expo.dev/accounts/ajcsee3511/projects/autoscroller/builds/93d9ac49-7e8e-4faf-bf97-1974e0f408fd)
+
+
 1. Install the APK.
 2. Open **Auto Scroller** → tap **Grant permission** → **Accessibility → Auto Scroller → On**.
 3. Open YouTube Shorts / Instagram Reels.
