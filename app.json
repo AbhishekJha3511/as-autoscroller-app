@@ -9,6 +9,16 @@
     "android": {
       "package": "com.abhishekjha.autoscroller"
     },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.9.25"
+          }
+        }
+      ]
+    ],
     "extra": {
       "eas": {
         "projectId": "eac59e78-b3f2-4ba8-97e2-7d4bd3ae89c9"
