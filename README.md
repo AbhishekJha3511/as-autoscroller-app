@@ -2,6 +2,8 @@
 
 ### Hands-free scrolling for YouTube Shorts & Instagram Reels
 
+## Link - https://expo.dev/accounts/ajcsee3511/projects/autoscroller/builds/93d9ac49-7e8e-4faf-bf97-1974e0f408fd
+
 Sit back. Tap ▶. Let your phone swipe for you.
 
 ![Platform](https://img.shields.io/badge/platform-Android%207.0%2B-3DDC84?logo=android&logoColor=white)
@@ -39,9 +41,6 @@ Settings apply **live**, even while scrolling.
 The app needs only **one** permission: the **Accessibility service** (this is what allows it to perform swipe gestures for you). The edge controller uses the same service, so there is no "draw over other apps" permission.
 
 ## 📦 Install & use
-
-![Link](https://expo.dev/accounts/ajcsee3511/projects/autoscroller/builds/93d9ac49-7e8e-4faf-bf97-1974e0f408fd)
-
 
 1. Install the APK.
 2. Open **Auto Scroller** → tap **Grant permission** → **Accessibility → Auto Scroller → On**.
